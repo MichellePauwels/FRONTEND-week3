@@ -1,0 +1,23 @@
+// bower:scss
+// endbower
+
+$theBlue: #00FFFF;
+
+#theForm
+{
+  display: block;
+  width: 350px;
+}
+
+nav
+{
+  ul
+  {
+      list-style-type: square;
+
+    li
+    {
+      color: $theBlue;
+    }
+  }
+}
